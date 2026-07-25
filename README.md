@@ -32,5 +32,3 @@ Projeto desenvolvido em Python para gerenciar produtos em um estoque.
 ## 📚 Objetivo
 
 Este projeto foi desenvolvido para praticar lógica de programação, estruturas de dados, funções e manipulação de listas em Python.
-
-Este projeto foi desenvolvido para praticar lógica de programação, estruturas de dados, funções e manipulação de listas em Python.v
